@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<img src="ks.svg"></img>
+</p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Kshitij978&theme=rogue&area=true"></img>
 <!--
 **Kshitij978/Kshitij978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
