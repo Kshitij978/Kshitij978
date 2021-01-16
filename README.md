@@ -1,5 +1,5 @@
 <p>
-<img src="ks.png" height="200"></img>
+<img src="ks.png" height="200" width="400"></img>
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Kshitij978&theme=rogue&area=true"></img>
 <!--
