@@ -5,7 +5,6 @@ _A **frontend web developer and 3D artist** 💻. I love to design and code cool
 
 <br/>
 <br/>
-<br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=Kshitij978&theme=rogue&area=true"></img>
 <!--
 **Kshitij978/Kshitij978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
