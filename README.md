@@ -1,6 +1,6 @@
 <img align="left" src="ks.svg" height="300"></img>
 
-_A **frontend web developer and 3D artist** 💻. I love to design and code cool websites. I have always been fascinated by 3D world and currently learning to implent it beautifully on the web.<br/><br/> Other things I love:<br/>- graphics and games.<br/>- books, music and my coffee.<br/>- sketching<br/><br/>And, I believe cats will rule the world 🐈_
+_A **frontend web developer and 3D artist** 💻. I love to design and code cool websites. I have always been fascinated by the 3D world and currently learning to implement it beautifully on the web.<br/><br/> Other things I love:<br/>- graphics and games,<br/>- books, music and my coffee,<br/>- sketching<br/><br/>And, I believe cats will rule the world 🐈_
 
 <br/>
 <br/>
