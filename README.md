@@ -5,7 +5,7 @@ _A **frontend web developer and 3D artist** 💻. I love to design and code cool
 <br/>
 <br/>
 
-[![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kshitij978&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kshitij's github activity graph](https://mygithub-readme-activity-graph.herokuapp.com/graph?username=Kshitij978&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Kshitij978/Kshitij978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
