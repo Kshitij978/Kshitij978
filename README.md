@@ -74,9 +74,16 @@ _In my non-coding hours, I enjoy sketching, delving into 3D modeling, gaming, or
 
 <br>
 
-<h2 align="center">📈 <i>Stats</i></h2>
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Stats 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://grag.onrender.com/graph?username=Kshitij978&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://grag.onrender.com/graph?username=Kshitij978&bg_color=none&theme=react&area=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
-[![Kshitij's github activity graph](https://grag.onrender.com/graph?username=Kshitij978&bg_color=none&theme=react&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--<img align="left" src="ks.svg" height="300"></img>-->
 
