@@ -76,7 +76,7 @@ _In my non-coding hours, I enjoy sketching, delving into 3D modeling, gaming, or
 
 <h2 align="center">📈 <i>Stats</i></h2>
 
-[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kshitij978&bg_color=none&theme=react&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kshitij978&theme=react&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--<img align="left" src="ks.svg" height="300"></img>-->
 
