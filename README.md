@@ -3,7 +3,7 @@
 
 <br><br> _Hi, I'm **Kshitij Srivastava**, a frontend developer dedicated to crafting seamless digital experiences. With a keen eye for design and a knack for coding, I blend creativity with functionality to build sleek, responsive websites and intuitive web applications_
 <br><br>
-_In my non-coding hours, I enjoy sketching, delving into 3D modeling, gaming, or embarking on cosmic exploration._ 🌌
+_In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on cosmic exploration._ 🌌
 <br><br>
 🤝 _Let's connect and collaborate on innovative projects. Feel free to reach out—I'm always excited about new opportunities and challenges!_
 <br>
