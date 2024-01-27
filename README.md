@@ -12,7 +12,9 @@ _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on
 <!-- <h3 align='center'><i>Social Media Handles</i></h3> -->
 <p float="left" align="center">
 <a href="https://www.linkedin.com/in/kshitij-srivastava-1719651aa/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codepen.io/Ks145"><img height="30" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Kshitij__10"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+
 </p>
 <br>
 
