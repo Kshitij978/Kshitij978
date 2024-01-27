@@ -40,10 +40,10 @@ _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on
 </tr>
 <tr>
     <td align='center' height="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
+            <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" width="90"/>
     </td>
     <td align='center' height="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="60"/>
+            <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="60"/>
     </td>
      <td align='center' height="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="80"/>
@@ -60,7 +60,7 @@ _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="100">
     </td>
     <td align='center' height="100">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="100">
+        <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" width="50">
     </td>
     <td align='center' height="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="50">
